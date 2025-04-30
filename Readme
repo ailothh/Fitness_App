@@ -1,8 +1,8 @@
-# Basic Fitness App
+ Basic Fitness App
 
 A simple fitness tracking app that allows users to sign in, view their step count, distance walked, and calories burned. It also displays a pie chart summarizing activity levels.
 
-## Features
+Features
 
 - User Sign-In
 - Real-time step tracking
